@@ -1,11 +1,5 @@
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-FEDERATION_SERVER="https://toml.vercel.app/federation"
-AUTH_SERVER="https://toml.vercel.app/auth"
-TRANSFER_SERVER="https://toml.vercel.app/"
-SIGNING_KEY="GBERSQRKPC6QILIQRPURNVCOCRAOL4VVRBEDLMNVRDLCO4FVXWGPLBAX"
 HORIZON_URL="https://horizon-testnet.stellar.org"
 ACCOUNTS=[
 "GBERSQRKPC6QILIQRPURNVCOCRAOL4VVRBEDLMNVRDLCO4FVXWGPLBAX"
 ]
-VERSION="2.0.0"
 SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
